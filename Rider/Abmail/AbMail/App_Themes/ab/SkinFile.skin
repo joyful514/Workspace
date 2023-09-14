@@ -1,0 +1,52 @@
+﻿
+<asp:GridView   runat="server" CssClass="tablestyle" AllowSorting="True"
+                             CellPadding="0" 
+                            CellSpacing="0">
+                            <AlternatingRowStyle CssClass="altrowstyle" />
+                            <HeaderStyle CssClass="headerstyle" />
+                            <RowStyle CssClass="rowstyle" />
+                            <PagerSettings Mode="NumericFirstLast" PageButtonCount="7" FirstPageText="«" LastPageText="»" />
+                        </asp:GridView>
+
+                    
+ <asp:DetailsView   runat="server"   CssClass="tablestyle"   AutoGenerateRows="false">
+              <AlternatingRowStyle CssClass="altrowstyle" /> 
+                        <HeaderStyle CssClass="headerstyle" />
+                        <RowStyle CssClass="rowstyle" />
+ </asp:DetailsView>
+  <asp:FormView   runat="server"   CssClass="tablestyle">            
+ </asp:FormView>
+
+
+    <cc1:ExtendedGridView runat="server" CellPadding="0" CellSpacing="1" border="0" CssClass="border"
+    MouseOverCssClass="tdbgmouseover" SelectedCssClass="tdbgselected" Width="100%"
+    GridLines="None" EmptyDataText="没有任何数据！" PageSize="20">
+    <HeaderStyle CssClass="gridtitle" HorizontalAlign="Center" Height="25px" />
+    <RowStyle CssClass="tdbg" HorizontalAlign="Center" />
+    <EmptyDataRowStyle CssClass="tdbg" HorizontalAlign="Center" Height="100px" />
+    <PagerStyle CssClass="tdbg" HorizontalAlign="Center" Height="28px" />
+</cc1:ExtendedGridView>
+  
+    <asp:Button runat="server"  CssClass="button"/>  
+ 
+<asp:Calendar runat="server" BackColor="White" CssClass="cal_border" BorderColor="#ffffff" Font-Names="Times New Roman"
+    Font-Size="10pt" ForeColor="Black" Height="220px" NextPrevFormat="ShortMonth"
+    Width="250px" DayNameFormat="Shortest" TitleFormat="MonthYear">
+
+    <SelectedDayStyle CssClass="selectedday" ForeColor="#ffffff" />
+
+    <TodayDayStyle CssClass="cal_data" ForeColor="#ffffff" />
+
+    <WeekendDayStyle CssClass="cal_weekendday" ForeColor="#cc0000" />
+
+    <DayStyle CssClass="cal_month_data" ForeColor="#000000" />
+
+    <OtherMonthDayStyle CssClass="cal_next_data" ForeColor="#999999" />
+
+    <NextPrevStyle CssClass="cal_title_lr" ForeColor="#113d74" />
+
+    <TitleStyle CssClass="cal_title" ForeColor="#113d74" BackColor="#eef5fB" />
+
+    <SelectorStyle CssClass="cal_selector" ForeColor="#336666" />
+</asp:Calendar>
+        

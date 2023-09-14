@@ -1,0 +1,4 @@
+<view>pages/info/info</view>
+<button bindtap="gotoMessage">跳转到Tab消息页面</button>
+<button bindtap="gotoInfo2">跳转到非Tab页面Info2</button>
+<button bindtap="gotoBack">跳转上一个页面</button>

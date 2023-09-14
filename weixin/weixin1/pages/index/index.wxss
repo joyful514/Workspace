@@ -1,0 +1,7 @@
+@import "cust.wxss";
+input{
+  border: 1px solid #eeeeee;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 3px;
+}

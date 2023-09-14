@@ -1,0 +1,35 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>艾比玛特ERP</TITLE>
+</HEAD>
+<BODY marginwidth=0 marginheight=0 topmargin=0 leftmargin=0 align=center >
+<div id="urls"></div>
+<table border=0 cellpadding=0 cellspacing=0 align=center width='100%' height='95%'>
+  <tr>
+    <td align=center >
+      <iframe align=center id='modalFrame' name='modalFrame' width='100%' height='100%' frameborder=0 scrollbar=no> </iframe>
+    </td>
+  </tr>
+</table>
+
+  <script language='JavaScript' >
+	var getElement=document.location.href;
+	//var urls=document.getElementById("urls");   
+	var getPostion=getElement.search('page')
+	   if(getPostion!=-1)
+	    {
+	      var src=getElement.substring(getPostion+5);
+          //urls.innerHTML=src;		 
+	      if(src.indexOf('?')>0)
+	      {
+		  document.all.modalFrame.src=src+"&ran="+(Math.random()*1000000000000000000);
+	      }
+	      else
+	      {
+		  document.all.modalFrame.src=src+"?ran="+(Math.random()*1000000000000000000);
+	      }
+	   }
+ </script>
+</BODY>
+</HTML>

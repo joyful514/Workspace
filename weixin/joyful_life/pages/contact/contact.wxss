@@ -1,0 +1,4 @@
+/* pages/contact/contact.wxss */
+image{
+  width: 100%;
+}

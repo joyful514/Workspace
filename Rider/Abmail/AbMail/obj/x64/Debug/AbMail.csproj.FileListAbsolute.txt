@@ -1,0 +1,10 @@
+C:\Users\Administrator\Workspace\AbMail\bin\AbMail.dll.config
+C:\Users\Administrator\Workspace\AbMail\bin\AbMail.dll
+C:\Users\Administrator\Workspace\AbMail\bin\AbMail.pdb
+C:\Users\Administrator\Workspace\AbMail\bin\ProHelper.dll
+C:\Users\Administrator\Workspace\AbMail\bin\ProHelper.pdb
+C:\Users\Administrator\Workspace\AbMail\obj\x64\Debug\AbMail.csprojAssemblyReference.cache
+C:\Users\Administrator\Workspace\AbMail\obj\x64\Debug\AbMail.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Workspace\AbMail\obj\x64\Debug\AbMail.csproj.CopyComplete
+C:\Users\Administrator\Workspace\AbMail\obj\x64\Debug\AbMail.dll
+C:\Users\Administrator\Workspace\AbMail\obj\x64\Debug\AbMail.pdb

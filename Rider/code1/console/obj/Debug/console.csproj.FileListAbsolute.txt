@@ -1,0 +1,7 @@
+D:\Workspace\Rider\code1\console\obj\Debug\console.csproj.AssemblyReference.cache
+D:\Workspace\Rider\code1\console\obj\Debug\console.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Rider\code1\console\obj\Debug\console.csproj.CoreCompileInputs.cache
+D:\Workspace\Rider\code1\console\bin\Debug\console.exe
+D:\Workspace\Rider\code1\console\bin\Debug\console.pdb
+D:\Workspace\Rider\code1\console\obj\Debug\console.exe
+D:\Workspace\Rider\code1\console\obj\Debug\console.pdb

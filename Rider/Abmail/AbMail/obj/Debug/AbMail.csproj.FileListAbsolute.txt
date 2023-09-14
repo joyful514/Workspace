@@ -1,0 +1,81 @@
+e:\documents\visual studio 2012\Projects\AbMail\AbMail\bin\AbMail.dll
+e:\documents\visual studio 2012\Projects\AbMail\AbMail\bin\AbMail.pdb
+e:\documents\visual studio 2012\Projects\AbMail\AbMail\obj\Debug\AbMail.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2012\Projects\AbMail\AbMail\obj\Debug\AbMail.dll
+e:\documents\visual studio 2012\Projects\AbMail\AbMail\obj\Debug\AbMail.pdb
+e:\documents\visual studio 2012\Projects\AbMail\AbMail\bin\LinqHelper.pdb
+e:\documents\visual studio 2012\Projects\AbMail\AbMail\bin\LinqHelper.dll
+e:\documents\visual studio 2012\Projects\AbMail\AbMail\bin\ProHelper.dll
+e:\documents\visual studio 2012\Projects\AbMail\AbMail\bin\ProHelper.pdb
+e:\documents\visual studio 2012\Projects\AbMail\AbMail\bin\SqlHelper.pdb
+e:\documents\visual studio 2012\Projects\AbMail\AbMail\bin\SqlHelper.dll
+E:\Documents\Visual Studio 2013\Projects\AbMail\AbMail\bin\AbMail.dll.config
+E:\Documents\Visual Studio 2013\Projects\AbMail\AbMail\bin\AbMail.dll
+E:\Documents\Visual Studio 2013\Projects\AbMail\AbMail\bin\AbMail.pdb
+E:\Documents\Visual Studio 2013\Projects\AbMail\AbMail\bin\LinqHelper.dll
+E:\Documents\Visual Studio 2013\Projects\AbMail\AbMail\bin\ProHelper.dll
+E:\Documents\Visual Studio 2013\Projects\AbMail\AbMail\bin\SqlHelper.dll
+E:\Documents\Visual Studio 2013\Projects\AbMail\AbMail\bin\LinqHelper.pdb
+E:\Documents\Visual Studio 2013\Projects\AbMail\AbMail\bin\ProHelper.pdb
+E:\Documents\Visual Studio 2013\Projects\AbMail\AbMail\bin\SqlHelper.pdb
+E:\Documents\Visual Studio 2013\Projects\AbMail\AbMail\obj\Debug\AbMail.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2013\Projects\AbMail\AbMail\obj\Debug\AbMail.dll
+E:\Documents\Visual Studio 2013\Projects\AbMail\AbMail\obj\Debug\AbMail.pdb
+C:\Workspace\AbMail\AbMail\bin\AbMail.dll.config
+C:\Workspace\AbMail\AbMail\bin\AbMail.dll
+C:\Workspace\AbMail\AbMail\bin\AbMail.pdb
+C:\Workspace\AbMail\AbMail\bin\ProHelper.dll
+C:\Workspace\AbMail\AbMail\bin\ProHelper.pdb
+C:\Workspace\AbMail\AbMail\obj\Debug\AbMail.csprojAssemblyReference.cache
+C:\Workspace\AbMail\AbMail\obj\Debug\AbMail.csproj.CoreCompileInputs.cache
+C:\Workspace\AbMail\AbMail\obj\Debug\AbMail.csproj.CopyComplete
+C:\Workspace\AbMail\AbMail\obj\Debug\AbMail.dll
+C:\Workspace\AbMail\AbMail\obj\Debug\AbMail.pdb
+C:\Workspace\AbMail\bin\AbMail.dll.config
+C:\Workspace\AbMail\bin\AbMail.dll
+C:\Workspace\AbMail\bin\AbMail.pdb
+C:\Workspace\AbMail\bin\ProHelper.dll
+C:\Workspace\AbMail\bin\ProHelper.pdb
+C:\Workspace\AbMail\obj\Debug\AbMail.csprojAssemblyReference.cache
+C:\Workspace\AbMail\obj\Debug\AbMail.csproj.CoreCompileInputs.cache
+C:\Workspace\AbMail\obj\Debug\AbMail.csproj.CopyComplete
+C:\Workspace\AbMail\obj\Debug\AbMail.dll
+C:\Workspace\AbMail\obj\Debug\AbMail.pdb
+C:\Users\Administrator\Workspace\AbMail\bin\AbMail.dll
+C:\Users\Administrator\Workspace\AbMail\bin\AbMail.pdb
+C:\Users\Administrator\Workspace\AbMail\bin\ProHelper.dll
+C:\Users\Administrator\Workspace\AbMail\bin\ProHelper.pdb
+C:\Users\Administrator\Workspace\AbMail\obj\Debug\AbMail.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Workspace\AbMail\obj\Debug\AbMail.csproj.CopyComplete
+C:\Users\Administrator\Workspace\AbMail\obj\Debug\AbMail.dll
+C:\Users\Administrator\Workspace\AbMail\obj\Debug\AbMail.pdb
+C:\Users\Administrator\Workspace\AbMail\obj\Debug\AbMail.csproj.AssemblyReference.cache
+C:\Users\Administrator\Workspace\刘志华\source\AbMail\bin\AbMail.dll
+C:\Users\Administrator\Workspace\刘志华\source\AbMail\bin\AbMail.pdb
+C:\Users\Administrator\Workspace\刘志华\source\AbMail\bin\ProHelper.dll
+C:\Users\Administrator\Workspace\刘志华\source\AbMail\bin\ProHelper.pdb
+C:\Users\Administrator\Workspace\刘志华\source\AbMail\obj\Debug\AbMail.csproj.AssemblyReference.cache
+C:\Users\Administrator\Workspace\刘志华\source\AbMail\obj\Debug\AbMail.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Workspace\刘志华\source\AbMail\obj\Debug\AbMail.csproj.CopyComplete
+C:\Users\Administrator\Workspace\刘志华\source\AbMail\obj\Debug\AbMail.dll
+C:\Users\Administrator\Workspace\刘志华\source\AbMail\obj\Debug\AbMail.pdb
+C:\Users\Administrator\Workspace\Rider\AbMail\AbMail\obj\Debug\AbMail.csprojAssemblyReference.cache
+C:\Users\Administrator\Workspace\Rider\AbMail\AbMail\obj\Debug\AbMail.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Workspace\Rider\AbMail\AbMail\obj\Debug\AbMail.dll
+C:\Users\Administrator\Workspace\Rider\AbMail\AbMail\obj\Debug\AbMail.pdb
+C:\Users\Administrator\Workspace\Rider\AbMail\AbMail\bin\AbMail.dll.config
+C:\Users\Administrator\Workspace\Rider\AbMail\AbMail\bin\AbMail.dll
+C:\Users\Administrator\Workspace\Rider\AbMail\AbMail\bin\AbMail.pdb
+C:\Users\Administrator\Workspace\Rider\AbMail\AbMail\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Workspace\Rider\AbMail\AbMail\bin\ProHelper.pdb
+C:\Users\Administrator\Workspace\Rider\AbMail\AbMail\obj\Debug\AbMail.csproj.CopyComplete
+C:\Users\Administrator\Workspace\Rider\AbMail\AbMail\bin\ProHelper.dll
+C:\Users\Administrator\Workspace\liuzhihua\source\AbMail\AbMail\obj\Debug\AbMail.csprojAssemblyReference.cache
+C:\Users\Administrator\Workspace\liuzhihua\source\AbMail\AbMail\obj\Debug\AbMail.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Workspace\liuzhihua\source\AbMail\AbMail\obj\Debug\AbMail.dll
+C:\Users\Administrator\Workspace\liuzhihua\source\AbMail\AbMail\obj\Debug\AbMail.pdb
+C:\Users\Administrator\Workspace\liuzhihua\source\AbMail\AbMail\bin\AbMail.dll
+C:\Users\Administrator\Workspace\liuzhihua\source\AbMail\AbMail\bin\AbMail.pdb
+C:\Users\Administrator\Workspace\liuzhihua\source\AbMail\AbMail\bin\ProHelper.dll
+C:\Users\Administrator\Workspace\liuzhihua\source\AbMail\AbMail\bin\ProHelper.pdb
+C:\Users\Administrator\Workspace\liuzhihua\source\AbMail\AbMail\obj\Debug\AbMail.csproj.CopyComplete

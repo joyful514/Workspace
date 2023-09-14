@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="WMail.asmx.cs" Class="AbMail.WMail" %>

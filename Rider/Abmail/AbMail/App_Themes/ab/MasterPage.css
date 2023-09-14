@@ -1,0 +1,64 @@
+﻿
+
+/* 管理后台右侧通用表格样式定义 */
+.border, .TableWrap
+{
+	border: 1px solid #6493c8;
+	background: #fff;
+}
+
+.title, .gridtitle, .spacingtitle, th
+{
+	background: url(Images/title.gif) #b0d0f3 repeat-x left top;
+	line-height: 120%;
+	color: #3666aa;
+	font-weight: bold;
+}
+.title
+{
+	line-height: 22px;
+}
+.spacingtitle
+{
+	line-height: 22px;
+	letter-spacing: 8px;
+}
+
+.tdbg
+{
+	background: #e6eff8;
+	line-height: 120%;
+}
+.tdbgleft
+{
+	background: #d5e9ff;
+	line-height: 120%;
+}
+.tdbgbottom
+{
+	background: #e6eff8;
+	height: 40px;
+	text-align: center;
+}
+.tdbg li
+{
+	margin-left: 15px !important;
+}
+.tdbgmouseover
+{
+	background: #bfdfff;
+	line-height: 120%;
+}
+.tdbgselected
+{
+	background: #e0eef5;
+	line-height: 120%;
+}
+	 #tooltip{
+	position:absolute;
+	border:1px solid #333;
+	background:#f7f5d1;
+	padding:2px 5px;
+	color:#333;
+	display:none;
+	}	

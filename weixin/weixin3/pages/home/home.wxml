@@ -1,0 +1,2 @@
+<button bindtap="incrementCount">count值为:{{count}}</button>
+<view style="height: 2000rpx;"></view>

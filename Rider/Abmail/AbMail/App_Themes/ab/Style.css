@@ -1,0 +1,282 @@
+/*初始化*/
+h1, h2, h3, h4, h5, h6, h7, p, ul, ol, dl, dt, dd, li, body, form, input, button, img, cite, strong, em, table, td, th { padding:0; margin:0 17px 0 0;
+}
+h1, h2, h3, h4, h5, h6, h7 { font-size:14px; font-weight:bold; }
+img, table, td, th { border:0;}
+ul, ol { list-style-type:none;}
+a { color:#0097CC; text-decoration: none;}
+a:hover { color:#51B400; text-decoration:underline;}
+body { font:12px Arial, "宋体", Verdana, sans-serif; padding:20px;}
+select, input, textarea{ font-size:12px;}
+.clear{ clear:both;}
+legend{color:#0097CC;font: 14px;font-weight: bold;}
+fieldset{ margin-bottom:10px; margin-top:10px;}
+.important,b{
+font-weight:bold;
+color:#51B400; 
+}
+table {
+		border-collapse: collapse;
+		border-spacing: 0;
+	}
+input .seted 
+{background-color: #f3f3f3;
+   color: #2d2b2b;
+   border:#ccc 5px solid;  
+}
+button,
+input {
+  *overflow: visible;
+  line-height: normal;
+}
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  cursor: pointer;
+  -webkit-appearance: button;
+}
+label,
+input,
+button,
+select,
+textarea {
+  font-size: 13px;
+  font-weight: normal;
+  line-height: 18px;
+}
+.tablestyle 
+{
+	font-family: arial;
+	font: 12px;
+	border: solid 1px #7f7f7f;	
+}
+
+
+.altrowstyle 
+{
+    background-color: #edf5ff;
+     border-bottom: solid 1px #edf5ff;
+}
+.tablestyle {
+	BORDER-RIGHT: #7f7f7f 1px solid; BORDER-TOP: #7f7f7f 1px solid; BORDER-LEFT: #7f7f7f 1px solid; BORDER-BOTTOM: #7f7f7f 1px solid; 
+}
+
+.tablestyle th {
+	BORDER-RIGHT: #cbcbcb 1px solid; PADDING-RIGHT: 5px;  PADDING-LEFT: 10px; BACKGROUND: url(images/title.gif) repeat-x 0px 0px; PADDING-BOTTOM: 4px; VERTICAL-ALIGN: bottom; BORDER-LEFT: #989898; COLOR: #000; PADDING-TOP: 4px; BORDER-BOTTOM: #989898 1px solid; TEXT-ALIGN: center;
+word-break: keep-all;
+font:12px Arial;
+}
+
+.headerstyle th,.headerstyle td {
+	BORDER-RIGHT: #cbcbcb 1px solid; PADDING-RIGHT: 5px;  PADDING-LEFT: 10px; BACKGROUND: url(images/title.gif) repeat-x 0px 0px; PADDING-BOTTOM: 4px; VERTICAL-ALIGN: bottom; BORDER-LEFT: #989898; COLOR: #000; PADDING-TOP: 4px; BORDER-BOTTOM: #989898 1px solid; TEXT-ALIGN: center;
+word-break: keep-all;
+font:12px Arial;
+}
+
+.headerstyle th a,.headerstyle td a
+{
+    font-weight: normal;
+	text-decoration: none;
+	text-align: center;
+    color: #000;
+	display: block;
+    padding-right: 10px;
+    font:12px Arial;
+}   
+
+
+.rowstyle td, .altrowstyle td 
+{
+    padding: 4px 10px 4px 10px;
+    border-right: solid 1px #cbcbcb;
+	border-bottom: 1px solid #C1DCFF;
+word-break: keep-all;
+font:12px Arial;
+white-space:nowrap; 
+word-wrap:break-word;
+}
+
+
+.red
+{
+ color:Red;
+}
+.blue
+{
+ color:Blue;
+}
+.right
+{
+	text-align:  right;
+    padding-right: 10px;
+}   
+
+.grid
+{
+	font-family: tahoma;
+	font-size: 11px;
+	border: solid 1px #7f7f7f;
+    border-collapse:collapse;	    
+    color: #333333;    
+}
+
+.pager
+{
+    height:30px;
+    background:url(img/pager_bg.gif) repeat-x;
+}
+.pager .container
+{
+    padding:4px;
+}
+/* header column rules */
+.grid th 
+{
+    background: url(img/sprite.png) repeat-x 0px 0px;
+    border-color: #989898 #cbcbcb #989898 #989898;
+    border-style: solid solid solid none;
+    border-width: 1px 1px 1px medium;
+    color: #000;
+    padding: 4px 5px 4px 10px;
+    vertical-align: bottom;
+    text-align:left;
+}  
+
+.grid th a
+{
+	color:#333333;
+    font-weight: bold;
+	text-decoration: none;
+	display: block;	
+    padding-right: 10px;
+}
+
+/* data cell and data row rules */
+.grid td 
+{
+	color:#333333;
+    padding: 4px 10px 4px 10px;
+    border-bottom: solid 1px #BBD9EE;
+}
+
+.grid .altrow
+{
+    background-color: #EBF4FA;
+} 
+
+.grid .row
+{
+    background-color: #fff;
+}  
+
+.grid .rownum
+{
+    text-align:center;
+    padding-left:0px;
+    font-weight:bold;
+    color:#333333;
+}
+.hide{ display:none;}
+.left{ float:left;}
+.pad{padding:20px;}
+
+
+/* --日历样式定义开始-- */
+.cal_border
+{
+	width: 100%;
+	font: normal normal normal 12px/150% Verdana,Arial, "宋体" ,Helvetica,sans-serif;
+	border-collapse: collapse;
+}
+.cal_border td
+{
+	padding: 0px;
+}
+/* 顶部标题 */
+.cal_title
+{
+	padding: 0px;
+	margin: 0px;
+	width: 100%;
+	font: normal normal bold 10pt/150% Verdana,Arial, "宋体" ,Helvetica,sans-serif;
+}
+/* 当前日期背景 */
+.cal_data
+{
+	width: 14%;
+	background: #afd0f3;
+}
+/* 本月日期背景 */
+.cal_month_data
+{
+	background: #fff;
+}
+.cal_month_data a, .cal_month_data a:link, .cal_month_data a:hover, .cal_month_data a:visited, .cal_month_data a:active
+{
+	text-decoration: underline;
+}
+/* 非本月日期 */
+.cal_next_data
+{
+	width: 14%;
+	background: #f8f8f8;
+}
+.cal_next_data a, .cal_data a:link
+{
+	text-decoration: none;
+}
+/* 双休日背景 */
+.cal_weekendday
+{
+	border-top: #fff 1px solid;
+	font: normal normal bold 12px/150% Verdana,Arial, "宋体" ,Helvetica,sans-serif;
+}
+.cal_weekendday a, .cal_weekendday a:link, .cal_weekendday a:hover, .cal_weekendday a:visited, .cal_weekendday a:active
+{
+	text-decoration: underline;
+}
+/* 选中日期样式 */
+.selectedday
+{
+	background: #c00;
+	border: 0;
+}
+/* 星期 */
+.cal_title th
+{
+	background: #e8fbe7;
+	height: 20px;
+	border-collapse: collapse;
+	font: normal normal bold 12px/150% Verdana,Arial, "宋体" ,Helvetica,sans-serif;
+	color: #000;
+}
+
+/* 选择上、下一个月 */
+.cal_title_lr, .cal_title_lr a, .cal_title_lr a:link, .cal_title_lr a:hover, .cal_title_lr a:visited, .cal_title_lr a:active
+{
+	text-decoration: underline;
+}
+/* 左侧选择列 */
+.cal_selector
+{
+	background: #deecf7;
+	font: normal normal bold 12px/150% Verdana,Arial, "宋体" ,Helvetica,sans-serif;
+}
+/* 白边框 */
+.cal_month_data, .cal_title th, .cal_next_data, .cal_selector
+{
+	border: #fff 1px solid;
+}
+/* --日历样式定义结束-- */
+.button
+{    
+    color:#308462;
+    }
